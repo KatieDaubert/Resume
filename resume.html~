@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Katie Daubert Resume</title>
+<meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+<style>
+body {
+	text-align: center;
+	background-color: linen;
+}
+
+#top {
+	font-size:2em;
+	color:maroon;
+}
+
+#workexperience {
+		font-size: 1em;
+		
+}
+
+#leadershipexeperience {
+		font-size: 2em;
+}
+#otheractivities {
+		font-size: 2em;
+
+}
+</style>
+</head>
+<body>
+<div id="top">
+	<h1>Katie Daubert</h1>
+	<h3>2101 N. 63rd Street, Philadelphia, PA 19151<h3>
+	<h3>kd564255@sju.edu | 570-617-3436 | prismaticsound.com<h3>
+	
+</div>
+
+<div id="workexperience">
+	<h2>Work Experience</h2>
+	<h3><b>iRadioPhilly</b></h3>
+	<h3><i>Summer Intern</i><h3>
+	<li> Promoted for iRadioPhilly and sponsored events on air and through social media </li>
+	<li> Curated iRadioPhilly’s dance music radio station </li>
+	<li> Sauce Fundamentals </li></h3>
+	<h3> Authored show reviews for official iRadioPhilly website </h3>
+</div>
+
+<div id="leadershipexperience">
+		
+	<h5>Groups are welcome, or come on your own!</h5>
+	<h5>$75 enrollment fee per student, which includes wine and snacks during our class.</h5>
+	<h5>Contact narberthgourmet@gmail.com to register.</h5>
+	
+<div id="otheractivities">
+		
+	<h5>Groups are welcome, or come on your own!</h5>
+	<h5>$75 enrollment fee per student, which includes wine and snacks during our class.</h5>
+	<h5>Contact narberthgourmet@gmail.com to register.</h5>
+
+
+</div>
+</body>
+</html>
+
